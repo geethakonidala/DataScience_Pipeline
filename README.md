@@ -17,4 +17,7 @@ Brief Desription is given for each script below.
 4. Model Development
 
 5. Model Evaluation & Refinement
+      Evaluating the model for accuracy and precision is the final task in building the solution. The developed model should fit the training set. 
+      some of the models either overfit or undefit the training set. However when applied on the test set, these models doesn' capture the actual underlying function. 
+      			
 

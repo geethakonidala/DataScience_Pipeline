@@ -4,9 +4,9 @@ This project is part of completing an online course "Analyzing Data with Python"
 Automobile data set is used through the project and the link is found below. 
 https://archive.ics.uci.edu/ml/machine-learning-databases/car/
 
-Ultimate goal is to predict the prize of the car with the help of different variables in the dataset. We use Multi-Linear Regression in our study. 
+Ultimate goal is to predict the prize of the car using different variables in the dataset. I used Multi-Linear Regression as part of model selection. 
 
-You can find the different steps involved in the data science pipeline here. Every block involved in pipeline is categorized into a separate script, which are listed below. 
+Every step involved in the data science pipeline are listed here.
 
 1. Importing Data
 
@@ -17,6 +17,7 @@ You can find the different steps involved in the data science pipeline here. Eve
 4. Model Development
 
 5. Model Evaluation & Refinement
+
   
       			
 
